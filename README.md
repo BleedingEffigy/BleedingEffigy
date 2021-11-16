@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
+- 🤹‍♂️ React, Nodejs, Python, Clojure 
 - 🔭 I’m currently working on updating my consulting website [design.ahernandez.dev](design.ahernandez.dev)
 - 🌱 I’m currently learning python and clojure
 - 👯 I’m looking to collaborate on python and js projects.
