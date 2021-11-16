@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Linkedin Banner@2-1500x500](https://user-images.githubusercontent.com/12976451/141998454-60deb737-01bb-44c9-87ff-ad999b0329e7.png)
+
 
 <!--
 **BleedingEffigy/BleedingEffigy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-- 🔭 I’m currently working on updating my consulting website design.ahernandez.dev
+- 🔭 I’m currently working on updating my consulting website [design.ahernandez.dev](design.ahernandez.dev)
 - 🌱 I’m currently learning python and clojure
 - 👯 I’m looking to collaborate on python and js projects.
 - 📫 How to reach me: https://twitter.com/bleedingeffigy
