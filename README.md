@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🤹‍♂️ React, Nodejs, Python, Clojure 
-- 🔭 I’m currently working on updating my consulting website [design.ahernandez.dev](https://design.ahernandez.dev)
+- 🔭 I’m currently working on updating my consulting website [blossom+, a daisyUI theme manager](https://blossomplus.netlify.app/)
 - 🌱 I’m currently learning python and clojure
 - 👯 I’m looking to collaborate on python and js projects.
 - 📫 How to reach me: https://twitter.com/bleedingeffigy
