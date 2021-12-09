@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and clojure
 - 👯 I’m looking to collaborate on python and js projects.
 - 📫 How to reach me: https://twitter.com/bleedingeffigy
-- ⚡ Fun fact: I first started learning IT when I was 12 and I was doing the html/css tutorial on W3Schools. I wanted to get the certification for html, but I thought the $50 was too much to ask my parents for 🤷.
-
+- ⚡ Fun fact: I always have $10/month worth of virtual private servers, currently on digitalOcean. I believe it's better to have them and not need them than vice-versa.
