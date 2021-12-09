@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-- 🤹‍♂️ React, Nodejs, Python, Clojure 
+- 🤹‍♂️ React, Nodejs, Python 
 - 🔭 I’m currently working on updating my consulting website [blossom+, a daisyUI theme manager](https://blossomplus.netlify.app/)
 - 🌱 I’m currently learning python and clojure
 - 👯 I’m looking to collaborate on python and js projects.
