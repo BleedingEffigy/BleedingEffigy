@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🤹‍♂️ React, Nodejs, Python 
-- 🔭 I’m currently working on updating my npm project [blossom+, a daisyUI theme manager](https://blossomplus.netlify.app/)
+- 🔭 I’m currently working on updating my consulting website [blossom+, a daisyUI theme manager](https://blossomplus.netlify.app/)
 - 🌱 I’m currently learning python and clojure
 - 👯 I’m looking to collaborate on python and js projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/bleedingeffigy), [Portfolio](https://www.ahernandez.dev/)
 - ⚡ Fun fact: I always have $10/month worth of virtual private servers, currently on digitalOcean. I believe it's better to have them and not need them than vice-versa.
+[![My github stats](https://github-readme-stats.vercel.app/api?username=bleedingeffigy&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
